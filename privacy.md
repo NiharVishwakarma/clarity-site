@@ -2,7 +2,7 @@
 
 Last updated: 17 October 2026
 
-Clarity ("the app") is developed by Nihar Vishwakarma. Contact: YOUR_EMAIL_HERE
+Clarity ("the app") is developed by Nihar Vishwakarma. Contact: nihar.vishwakarma7782@gmail.com
 
 ## Summary
 
@@ -53,4 +53,4 @@ If this policy changes, the date above will be updated.
 
 ## Contact
 
-Questions: YOUR_EMAIL_HERE
+Questions: nihar.vishwakarma7782@gmail.com

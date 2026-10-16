@@ -16,4 +16,4 @@ Clarity has no servers and no ads, and it does not track you. Read the [Privacy 
 
 ## Contact
 
-YOUR_EMAIL_HERE
+nihar.vishwakarma7782@gmail.com
